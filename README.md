@@ -1,2 +1,2 @@
 # cpm-website
-Cebu Property Management Syster
+Cebu Property Management System
